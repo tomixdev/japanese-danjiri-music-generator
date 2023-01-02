@@ -1,0 +1,7 @@
+.class
+*.class
+.java~
+*.java~
+/src-danjiri/CompositionTextFiles/
+**.DS_Store**
+/src-danjiri/DanjiriSonata -RhythmPattern.xlsx.xlsx

@@ -1,0 +1,9 @@
+All ROUTs of 16 pulses AND 9 hits
+No.0 X X - X - X - X - X X - X - X - 
+No.1 X - X X - X - X - X - X X - X - 
+No.2 X - X - X X - X - X - X - X X - 
+No.3 X - X - X - X X - X - X - X - X 
+No.4 - X X - X - X - X X - X - X - X 
+No.5 - X - X X - X - X - X X - X - X 
+No.6 - X - X - X X - X - X - X X - X 
+No.7 - X - X - X - X X - X - X - X X 

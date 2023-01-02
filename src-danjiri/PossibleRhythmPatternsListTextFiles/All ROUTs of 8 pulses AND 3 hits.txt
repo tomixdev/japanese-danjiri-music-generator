@@ -1,0 +1,5 @@
+All ROUTs of 8 pulses AND 3 hits
+No.0 X - X - - X - - 
+No.1 X - - X - - X - 
+No.2 - X - - X - X - 
+No.3 - - X - X - - X 

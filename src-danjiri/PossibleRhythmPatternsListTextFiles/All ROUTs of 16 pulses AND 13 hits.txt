@@ -1,0 +1,17 @@
+All ROUTs of 16 pulses AND 13 hits
+No.0 X X X X X - X X X X - X X X X - 
+No.1 X X X X - X X X X X - X X X X - 
+No.2 X X X X - X X X X - X X X X X - 
+No.3 X X X X - X X X X - X X X X - X 
+No.4 X X X - X X X X X - X X X X - X 
+No.5 X X X - X X X X - X X X X X - X 
+No.6 X X X - X X X X - X X X X - X X 
+No.7 X X - X X X X X - X X X X - X X 
+No.8 X X - X X X X - X X X X X - X X 
+No.9 X X - X X X X - X X X X - X X X 
+No.10 X - X X X X X - X X X X - X X X 
+No.11 X - X X X X - X X X X X - X X X 
+No.12 X - X X X X - X X X X - X X X X 
+No.13 - X X X X X - X X X X - X X X X 
+No.14 - X X X X - X X X X X - X X X X 
+No.15 - X X X X - X X X X - X X X X X 
